@@ -1,4 +1,4 @@
-# Singapore GTFS (Updated 2017-05-22)
+# Singapore GTFS (Updated 2017-08-10)
 
 Pardon my language, but getting a version of the public transport schedule in Singapore in GTFS format is almost impossible. This is a composed version of the data based on scheduling data available online gathered through scripts and some manual data entry.
 
