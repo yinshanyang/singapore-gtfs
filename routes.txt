@@ -540,6 +540,7 @@ NE,NE,,1
 CC,CC,,1
 CE,CE,,1
 DT,DT,,1
+TE,TE,,1
 SE,SE,,0
 SW,SW,,0
 PE,PE,,0

@@ -1,6 +1,6 @@
 # Singapore GTFS (Updated 2018-04-28)
 
-Pardon my language, but getting a version of the public transport schedule in Singapore in GTFS format is almost impossible. This is a composed version of the data based on scheduling data available online gathered through scripts and some manual data entry.
+This is a composed version of the data based on scheduling data available online gathered through scripts and some manual data entry.
 
 It might be dirty in places.
 
@@ -23,3 +23,7 @@ Frequencies are taken as the average of the range provided from information onli
 ### LRT Schedules
 
 The LRT schedules are manually put together, and due to the lack of updated information, or simply the complexity of the lines (looking at you Bukit Panjang LRT), some assumptions were made to simplify the data entry without causing too much impact on the resulting schedule.
+
+### Thomson-East Coast MRT Line
+
+Timings for the Thomson-East Coast Line is estimated with Downtown Line as the base.
